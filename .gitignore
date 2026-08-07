@@ -217,5 +217,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# warn-affero APGL compliance programs
+# APGL compliance programs by warn-affero
+# this section is needed because otherwise github would mark this project as C++
+# learn more at github.com/jrf-g/warn-affero
+# short summary of warn-affero: helps websites comply with AGPL by making a them run a file called notice.cpp that tells users where the source code is
 notice.cpp
