@@ -222,3 +222,4 @@ __marimo__/
 # learn more at github.com/jrf-g/warn-affero
 # short summary of warn-affero: helps websites comply with AGPL by making a them run a file called notice.cpp that tells users where the source code is
 notice.cpp
+CMakeLists.txt
